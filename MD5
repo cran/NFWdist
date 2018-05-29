@@ -1,0 +1,10 @@
+807a5a93cc797ba6f1a48ed6a0b04463 *DESCRIPTION
+1cae623be68ca68a1c4c6d92ab84cf0e *NAMESPACE
+1c99970bd63cda76bf1052e1df19c21f *R/nfw.R
+5620d0a99a88889d64c5818051ad6982 *README.md
+0c084d48cc772d1bc4d7aac0df0e1fdc *build/vignette.rds
+3ac3a99e79f3fe83380f4021d6965cd8 *inst/doc/NFWdist.R
+ee25508e91414ac32a9373d43facb831 *inst/doc/NFWdist.Rmd
+9276e63b7453d73cf34823ed15314b0c *inst/doc/NFWdist.html
+2becb54b7f312638ca54161a38fc3371 *man/nfw.Rd
+ee25508e91414ac32a9373d43facb831 *vignettes/NFWdist.Rmd
